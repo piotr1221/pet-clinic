@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/cloud-storage": "^1.26",
+        "predis/predis": "^1.1",
+        "programster/mysql-session-handler": "^1.0"
+    }
+}

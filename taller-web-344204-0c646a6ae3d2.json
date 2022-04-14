@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "taller-web-344204",
+  "private_key_id": "0c646a6ae3d2735bc1978bab8ad42aafcb9b8f8d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCV2x2vjZPwU6nj\nBnF3y0mGMuBal40nEfo2hCJPP14JgkpW+MPnsN9LGP+w4NA/8elZbVsi36C3gKS7\nOiXm5K5qgWC/fxB97g/rStdyaInHij7oPxw0s93+wR/Nsh8+YVlu1AYmPnJuUEVW\nAxKSd+UMj0FQV1rf4IL2W+oIf0tl15QnaE1YePrhf/cEt02u1dUH9fjCnOYzSMBE\ngctRKy2aHAbzjLNXLKGHPDGJOrgIDEve/3oW6h1CHYSzrxe+uytChLdsNCea5itr\ntqkNflP0rbPyreA9cGG5yZpJmUark/7y6T3u9Z8pgswXALi4T0XWEZu7uwx0WS50\nOAU0+dbDAgMBAAECggEAQ6iuIwR7nl7PzeIrWehtVktjM1PIlbLOs01+RiR4mzd5\nxAHGRbX8YyYyz5P5Ql3BOzCeHMU2BZPuDGBpG3H1c73dRiii9BCHnHbqhku/pVl8\nJJTV8c+h8/MTHmaFJ7+BRwIwkpTQSpEwdPCnMn0ya7TESvdd3sW5q2x9Yn/CtYRq\nbceziqbN6bI4rEGrOTCxAlrkde0sELpNjJ2gsjsKAHEZrCzXdnmOSQWhYuwCQoa6\nAAnKCsFulJ0cb1+CZirMAiyOMkkI8c18XI/2xX2QwL3kzyYSxaI5+X+GrE2wOqjP\njDRs01cBSM6C09/6BgFz7weZ7VlBe8wP3EOPOof25QKBgQDLsk5ep914LRoNYhwE\nhkDY4gsdDtZuAFjVu0d68NHRkC5Jnr7EjGjv8ul+g5/bkvKZwzCJa/lV+QSEncg9\n2kpitJfxID8gnNFqyUTK/7Ndxc+qaBrfAn6frPYZqwnUuxvtrlW16gqTajIxbikh\n92XiOLgry0mmFSVHKLw12Gyn5QKBgQC8Va1YoaVJVK/zaognFb93rUvH2joH1NIS\n8LWesEjZnCegkhEub4gq5/SiYT6s8AP0KGptlul7bmOkgdu+ivDwlg15kgD29le7\nj1WsQmI55thHc9+GjkX9fWKQ1HCqkyWcR3qrnC6SS8/W5wYTT/+RfZNcYwQd/tgG\ndJ1V4clJhwKBgQCqsQInI7fcqr64FEyyJeZVWCZD9VkO2M+YWtVtWjwYxh9jpdjq\nT1boK8AqOhZNI3iUDRKxNX+84W09zBIucqv+xqLEdmcv5vk96ObyzQ77N3XrsE1E\nL4z4NTINFFyqnRisNXixdivimAzziwKA6hXAWhNK75EJ0ZJpbOM6o995WQKBgC6F\nCzhlVSpz3LJHkjH1UUICcEGBSew9SVacVoBIEvaNd8xVyCCsM/pFKUwisRSOhKt+\ngCtpp2pxrfMokFrUfwcuSU3KHqrh1nHhycuu6gxbVPjxSjk2U1t16S7VCq9XgWbE\n0Swqe+ZvC3uNvRZwIDSTzB555r5yAHI3w9U+3DVpAoGAFRxgkCkVTYUWQOueb01s\nojoXD9lREjNYp37Elv/isJ4PkY1HjLWtzYxLCWbnsaLniDIAtEKEMOim+3e5uDjl\nKe/hGeBM3/NuYM563h27KcUN9ZqummGAmmUCs02uP0p+WHyfXFQW2ae82H/0wBkj\nlZKQhGwr9Vr89r/NsAyHjF4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "reloca@taller-web-344204.iam.gserviceaccount.com",
+  "client_id": "100340350680200043159",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reloca%40taller-web-344204.iam.gserviceaccount.com"
+}

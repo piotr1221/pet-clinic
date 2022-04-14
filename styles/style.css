@@ -1,0 +1,50 @@
+html,body {
+    height:100%;
+    width:100%;
+    margin:0;
+  }
+body {
+    background: url("../images/perros2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position: top;
+    /* display:flex; */
+}
+
+form.transbox {
+    background-color:white;
+    opacity:0.9;
+}
+
+.center {
+    padding: 0px 150px 0px 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+form.transbox div{
+    font-weight: bold;
+}
+
+.img-row {
+    display: block;
+    max-width:500px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.regresar {
+    font-weight: bold;
+}
